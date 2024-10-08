@@ -1,1 +1,2 @@
-# FACE_EMOTION
+The Real-time Emotion Detection System aims to detect and classify emotions displayed by a person in front of a webcam. The project uses a pre-trained Convolutional Neural Network (CNN) model to predict emotions from facial expressions. The detected emotions are displayed on the screen, and the program also tracks and displays statistics about the frequency of each emotion. 
+The system works in real-time and provides several functionalities like saving frames, pausing and resuming the detection, and displaying Frames Per Second (FPS) to monitor performance.
