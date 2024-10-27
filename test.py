@@ -9,7 +9,7 @@ model_path = r'C:\Users\SOAIB ASLAM\OneDrive\Desktop\PROJECT\Facial Expression R
 model = load_model(model_path)
 
 # Define the emotion labels
-emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
+emotion_labels = ['ANGRY', 'DISGUST', 'FEAR', 'HAPPY', 'SAD', 'SURPRISE', 'NEUTRAL']
 
 # Load the haarcascade for face detection
 face_cascade_path = 'haarcascade_frontalface_default.xml'
