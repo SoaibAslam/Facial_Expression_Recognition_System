@@ -76,4 +76,4 @@ This project detects seven basic emotions: Angry, Disgust, Fear, Happy, Sad, Sur
 
 This project is licensed under the MIT License.
 
-[Facial Expression Recognition System Code](https://github.com/SoaibAslam/Facial_Expression_Recognition_System/blob/main/test.py)
+code : [Facial Expression Recognition System Code](https://github.com/SoaibAslam/Facial_Expression_Recognition_System/blob/main/test.py)
